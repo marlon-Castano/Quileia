@@ -5,5 +5,5 @@ lenjuaje de programacion Java/Web
 
 base de datos realizada en phpmyadmind
 
-servidor utilizador glassFish 4.1.1
+servidor utilizado glassFish 4.1.1
 
